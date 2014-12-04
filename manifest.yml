@@ -1,0 +1,6 @@
+---
+# Standard deployment info for CF.
+applications:
+- name: cloud-greeting
+  memory: 256M
+  instances: 1
