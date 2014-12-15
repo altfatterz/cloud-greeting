@@ -4,3 +4,4 @@ applications:
 - name: cloud-greeting
   memory: 256M
   instances: 1
+  path: target/cloud-greeting-1.0-SNAPSHOT.jar
