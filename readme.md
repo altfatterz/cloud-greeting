@@ -1,0 +1,1 @@
+[ ![Codeship Status for altfatterz/cloud-greeting](https://codeship.com/projects/c3771810-68d6-0132-9d03-3ad5c353d440/status?branch=master)](https://codeship.com/projects/53408)
